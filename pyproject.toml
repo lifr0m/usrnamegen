@@ -31,6 +31,9 @@ publish = [
     "twine"
 ]
 
+[project.urls]
+Homepage = "https://github.com/lifr0m/usrnamegen"
+
 [tool.hatch.version]
 source = "vcs"
 
