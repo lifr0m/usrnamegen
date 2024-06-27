@@ -28,9 +28,8 @@ dev = [
     "mypy",
     "ruff"
 ]
-publish = [
-    "build",
-    "twine"
+build = [
+    "build"
 ]
 
 [tool.hatch.version]

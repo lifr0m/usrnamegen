@@ -3247,7 +3247,6 @@ jade
 jaguar
 jail
 jailhouse
-jalapeÃ±o
 jam
 jar
 jasmine
@@ -6020,7 +6019,6 @@ tale
 talent
 talk
 talking
-tamo'shanter
 tamale
 tambour
 tambourine

@@ -91,12 +91,9 @@ best
 better
 bewitched
 big
-big-hearted
 biodegradable
-bite-sized
 bitter
 black
-black-and-white
 bland
 blank
 blaring
@@ -159,7 +156,6 @@ circular
 classic
 clean
 clear
-clear-cut
 clever
 close
 closed
@@ -294,7 +290,6 @@ eager
 early
 earnest
 easy
-easy-going
 ecstatic
 edible
 educated
@@ -341,8 +336,6 @@ exotic
 expensive
 experienced
 expert
-extra-large
-extra-small
 extraneous
 extroverted
 fabulous
@@ -357,8 +350,6 @@ famous
 fancy
 fantastic
 far
-far-flung
-far-off
 faraway
 fast
 fat
@@ -455,7 +446,6 @@ glossy
 glum
 golden
 good
-good-natured
 gorgeous
 graceful
 gracious
@@ -492,9 +482,7 @@ handmade
 handsome
 handy
 happy
-happy-go-lucky
 hard
-hard-to-find
 harmful
 harmless
 harmonious
@@ -513,7 +501,6 @@ helpless
 hidden
 hideous
 high
-high-level
 hilarious
 hoarse
 hollow
@@ -543,8 +530,6 @@ idle
 idolized
 ignorant
 ill
-ill-fated
-ill-informed
 illegal
 illiterate
 illustrious
@@ -603,7 +588,6 @@ irritating
 itchy
 jaded
 jagged
-jam-packed
 jaunty
 jealous
 jittery
@@ -666,7 +650,6 @@ loathsome
 lone
 lonely
 long
-long-term
 loose
 lopsided
 lost
@@ -683,7 +666,6 @@ lumpy
 lustrous
 luxurious
 mad
-made-up
 magnificent
 majestic
 major
@@ -786,7 +768,6 @@ offensive
 official
 oily
 old
-old-fashioned
 only
 open
 optimal
@@ -897,7 +878,6 @@ queasy
 querulous
 questionable
 quick
-quick-witted
 quiet
 quintessential
 quirky
@@ -973,11 +953,8 @@ scornful
 scratchy
 scrawny
 second
-second-hand
 secondary
 secret
-self-assured
-self-reliant
 selfish
 sentimental
 separate
@@ -999,7 +976,6 @@ shocked
 shocking
 shoddy
 short
-short-term
 showy
 shrill
 shy
@@ -1104,7 +1080,6 @@ superb
 superficial
 superior
 supportive
-sure-footed
 surprised
 suspicious
 svelte
@@ -1277,14 +1252,6 @@ weepy
 weighty
 weird
 welcome
-well-documented
-well-groomed
-well-informed
-well-lit
-well-made
-well-off
-well-to-do
-well-worn
 wet
 which
 whimsical
@@ -1295,7 +1262,6 @@ whole
 whopping
 wicked
 wide
-wide-eyed
 wiggly
 wild
 willing
