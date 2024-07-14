@@ -1362,7 +1362,6 @@ consulting
 consumer
 consumption
 contact
-contact lens
 contagion
 container
 content
@@ -1506,7 +1505,6 @@ credibility
 credit
 creditor
 creek
-creme brulee
 crepe
 crest
 crew
@@ -1961,9 +1959,7 @@ dugout
 dulcimer
 dumbwaiter
 dump
-dump truck
 dune
-dune buggy
 dungarees
 dungeon
 duplexer
@@ -1971,7 +1967,6 @@ duration
 durian
 dusk
 dust
-dust storm
 duster
 duty
 dwarf

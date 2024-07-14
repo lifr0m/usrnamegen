@@ -21,7 +21,7 @@ classifiers = [
 dynamic = ["version"]
 
 [project.urls]
-Homepage = "https://github.com/lifr0m/usrnamegen"
+homepage = "https://github.com/lifr0m/usrnamegen"
 
 [project.optional-dependencies]
 dev = [
