@@ -20,15 +20,7 @@ def generate_username(
         if adjective in censored or noun in censored:
             continue
 
-        if _chance(0.50):
-            adjective = adjective.title()
-
-        if _chance(0.50):
-            noun = noun.title()
-
-        sep = '_' if _chance(0.50) else ''
-
-        username = f'{adjective}{sep}{noun}{random.randint(1, 999_999)}'
+        username = f'{adjective}{noun}{random.randint(1, 999_999)}'
 
         if min_len is not None and len(username) < min_len:
             continue
@@ -39,10 +31,3 @@ def generate_username(
         return username
 
     raise RuntimeError("Can't generate username. Change params.")
-
-
-def _chance(
-    value: float
-) -> bool:
-    assert 0 < value < 1
-    return random.random() < value
